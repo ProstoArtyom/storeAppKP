@@ -1,0 +1,34 @@
+﻿<ps:PASAppPage x:Class="PAS.UI.Pages.Authorization.RoleSelectionPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:PAS.UI.Pages.Authorization"
+      xmlns:ps="clr-namespace:PAS.UI.Pages"
+      mc:Ignorable="d"
+      Title="Выбор роли" Height="400" Width="600">
+    <Page.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Background" Value="YellowGreen"/>
+            
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="30" />
+                </Style>
+            </Style.Resources>
+        </Style>
+    </Page.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0" Margin="50, 50, 50, 25"
+                Click="SetUserAuth_Click">Покупатель</Button>
+
+        <Button Grid.Row="1" Margin="50, 25, 50, 50"
+                Click="SetAdminAuth_Click">Продавец</Button>
+    </Grid>
+</ps:PASAppPage>

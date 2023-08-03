@@ -1,0 +1,12 @@
+C:\Users\artyo\source\repos\PAS\PAS.Storage\bin\Debug\net7.0\PAS.Storage.deps.json
+C:\Users\artyo\source\repos\PAS\PAS.Storage\bin\Debug\net7.0\PAS.Storage.dll
+C:\Users\artyo\source\repos\PAS\PAS.Storage\bin\Debug\net7.0\PAS.Storage.pdb
+C:\Users\artyo\source\repos\PAS\PAS.Storage\obj\Debug\net7.0\PAS.Storage.csproj.AssemblyReference.cache
+C:\Users\artyo\source\repos\PAS\PAS.Storage\obj\Debug\net7.0\PAS.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artyo\source\repos\PAS\PAS.Storage\obj\Debug\net7.0\PAS.Storage.AssemblyInfoInputs.cache
+C:\Users\artyo\source\repos\PAS\PAS.Storage\obj\Debug\net7.0\PAS.Storage.AssemblyInfo.cs
+C:\Users\artyo\source\repos\PAS\PAS.Storage\obj\Debug\net7.0\PAS.Storage.csproj.CoreCompileInputs.cache
+C:\Users\artyo\source\repos\PAS\PAS.Storage\obj\Debug\net7.0\PAS.Storage.dll
+C:\Users\artyo\source\repos\PAS\PAS.Storage\obj\Debug\net7.0\refint\PAS.Storage.dll
+C:\Users\artyo\source\repos\PAS\PAS.Storage\obj\Debug\net7.0\PAS.Storage.pdb
+C:\Users\artyo\source\repos\PAS\PAS.Storage\obj\Debug\net7.0\ref\PAS.Storage.dll
